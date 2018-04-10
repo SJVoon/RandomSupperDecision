@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+button{
+    display: block;
+    margin:auto;
+    font-size: 40px;
+}
+body{
+    background-color: bisque;
+}
